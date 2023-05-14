@@ -15,7 +15,7 @@ int main()
 	char operator[2];
 	char calc_again[1];
 
-	while (calc_again[1] = 'y')
+	while (true)
 	{
 		//iterating through the variable
 		printf("Please type your first number... ");
@@ -57,16 +57,6 @@ int main()
 		{
 			printf("Please select an operator\n");
 		}
-
-		printf("Do you want to calculate again? y/n... ");
-		scanf("%1s", calc_again);
-
-		if (calc_again[0] == 'n')
-		{
-			printf("Thank you...\n");
-			break;
-		}
-
-		return 0;
 	}
+	return (0);
 }
