@@ -6,3 +6,6 @@ Some of the materials i am using are:
 2- Algorithms in C.pdf
 3- Algorithm Thinkking.pdf
 4- Cs50x Introduction to Computer Science and Programming
+
+#Project
+1- A Text Editor
