@@ -1,0 +1,2 @@
+zinpad: zinpad.c
+	$(CC) zinpad.c -o zinpad -Wall -Wextra -pedantic -std=c99
